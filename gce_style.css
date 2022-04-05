@@ -1,0 +1,59 @@
+body{
+    background-image: linear-gradient(to bottom right,#F39BDF 0%,#7EF0F5 100%);
+
+}
+
+p.clg{
+    font-family:fantasy;
+    font-size: 30px;
+    word-spacing: 8px;
+    color: white;
+
+    
+}
+.table{
+    background-color: #F76152;
+    text-align: center;
+    padding: 10px;
+}
+a{
+    color: white;
+}
+a:link{
+    text-decoration: none;
+
+}
+a:visited{
+
+    text-decoration:none;
+    
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+.ok{
+    float: top;
+}
+
+.kannan{
+    font-family:cursive;
+    font-size: 20px;
+}
+h3{
+
+    font-family: fantasy;
+    color: steelblue;
+}
+h2{
+    font-family: fantasy;
+    color: purple;
+}
+.gry{
+    float: left;
+    padding: 25px;
+}
+.hh{
+    float: left;
+    padding: 100px;
+}
